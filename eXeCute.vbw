@@ -1,0 +1,11 @@
+frmMain = 5, 3, 1006, 858, , 22, 22, 723, 638, C
+modeXeCute = 3, 2, 998, 916, C
+modHooking = 1, 3, 1002, 906, C
+modPopupMenu = 2, 0, 1004, 917, C
+modBrowseForFolder = 3, 2, 1002, 913, C
+modTrayIcon = 5, 4, 999, 920, C
+modPlaySound = 2, 2, 998, 912, C
+modWinRun = 2, 2, 993, 911, C
+modShellEx = 3, 2, 993, 917, C
+modSystemMenu = 3, 3, 1001, 910, C
+frmAbout = 0, 0, 0, 0, C, 66, 66, 767, 682, C
